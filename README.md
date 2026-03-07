@@ -1,16 +1,46 @@
- ##                                                                         Keshav Puri
+# Hi there 👋
 
-<!--
-**KeshavDyna/KeshavDyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Keshav
 
-Here are some ideas to get you started:
+🎮 Gamer  
+💻 Programmer  
+🎨 Graphic Designer  
+🎬 Video Editor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just an average guy who enjoys technology, gaming, and creativity.  
+I like building projects, learning new programming concepts, and improving my skills every day.
+
+---
+
+## 🚀 Skills
+- Programming
+- Graphic Design
+- Video Editing
+- Problem Solving
+
+---
+
+## 🧠 Currently Learning
+- Python
+- Programming Logic
+- Game-related projects
+
+---
+
+## 🎮 Hobbies
+- Gaming
+- Coding small projects
+- Designing graphics
+- Editing videos
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
