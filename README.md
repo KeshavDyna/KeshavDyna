@@ -1,6 +1,5 @@
-# Hi there 👋
+# Keshav Puri 😎
 
-## I'm Keshav
 
 🎮 Gamer  
 💻 Programmer  
