@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Editor-Neovim%20%7C%20VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Editors" />
   </p>
 
-  <!-- Connect with me badges -->
   <p align="center">
     <a href="https://linkedin.com/in/keshavpuri--" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -221,4 +220,27 @@
 </div>
 <br/><br/>
 
+---
 
+### 🖥️ System Environment (`fastfetch`)
+
+```text
+                   -`                    keshav@archlinux
+                  .o+`                   ----------------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  WM: Hyprland (Wayland)
+               `+oooooo:                 Shell: zsh / bash
+               -+oooooo+:                Editor: Neovim / VS Code
+             `/:-:++oooo+:               Theme: Tokyo Night
+            `/++++/+++++++:              Focus: Full-Stack, Systems & Web3
+           `/++++++++++++++:             Hobbies: Linux Ricing, Gaming, Design
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/   
+ .`                                 `/
