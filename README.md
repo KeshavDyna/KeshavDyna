@@ -218,28 +218,7 @@
     </tr>
 </table>
 <br />
-
-<h2 align="center"> DevOps Stats Matrix</h2>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=Rahuloraj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-statss-inky.vercel.app/api?username=rahuloraj&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<img height="165" src="https://leetcard.jacoblin.cool/rahuloraj?theme=dark&font=Nunito&hide_border=true"/>
-
 </div>
 <br/><br/>
-<!-- Trophies -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://github.com/rahuloraj/rahuloraj/blob/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
