@@ -222,7 +222,7 @@
 
 ---
 
-### 🖥️ System Environment (`fastfetch`)
+### 🖥️ System Environment
 
 ```text
                    -`                    keshav@archlinux
