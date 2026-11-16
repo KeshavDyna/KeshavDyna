@@ -27,7 +27,6 @@
 
 ### 🧰 Tech stack
 
-<details open>
 <summary><b>Languages & scripting</b></summary>
 <br>
 
@@ -35,9 +34,7 @@
 
 Also familiar with Markdown, SQL, and Sass.
 
-</details>
 
-<details open>
 <summary><b>Frameworks & libraries</b></summary>
 <br>
 
@@ -45,9 +42,7 @@ Also familiar with Markdown, SQL, and Sass.
 
 Other technologies featured in my original stack: Redux, NumPy, Pandas, Material UI, GraphQL, and Three.js.
 
-</details>
 
-<details>
 <summary><b>Databases, infrastructure & other technologies</b></summary>
 <br>
 
@@ -55,9 +50,7 @@ Other technologies featured in my original stack: Redux, NumPy, Pandas, Material
 
 Additional interests and tools: REST APIs, Go, Rust, Ethereum, Solana, Arduino, GitHub Pages, and Replit.
 
-</details>
 
-<details>
 <summary><b>Software & creative tools</b></summary>
 <br>
 
@@ -65,7 +58,6 @@ Additional interests and tools: REST APIs, Go, Rust, Ethereum, Solana, Arduino, 
 
 Also use or explore Brave, OBS Studio, Audacity, Jupyter, and CodePen.
 
-</details>
 
 ### 🖥️ My Linux setup
 
