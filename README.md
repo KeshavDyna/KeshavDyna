@@ -1,246 +1,94 @@
 <div align="center">
 
-  # Hey there, I'm Keshav Puri 👋
-  
-  ### 💻 Programmer • 🐧 Arch Linux Enthusiast • 🎮 Gamer • 🎨 Creative Designer
+# Hey, I'm Keshav Puri 👋
 
-  <p align="center">
-    <a href="https://github.com/KeshavDyna">
-      <img src="https://komarev.com/ghpvc/?username=KeshavDyna&style=flat-square&color=7aa2f7" alt="Profile Views" />
-    </a>
-    <img src="https://img.shields.io/badge/OS-Arch%20Linux%20btw-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/WM-Hyprland-blue?style=flat-square&logo=wayland&logoColor=white" alt="Hyprland" />
-    <img src="https://img.shields.io/badge/Editor-Neovim%20%7C%20VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Editors" />
-  </p>
+**Developer · Arch Linux Enthusiast · Gamer · Creative Designer**
 
-  <p align="center">
-    <a href="https://linkedin.com/in/keshavpuri--" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://discord.com/users/.dyna_mite" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="mailto:purikeshav2@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+*Exploring software development, Linux customization, and creative technology.*
 
-  <p align="center">
-    <i>Passionate about low-level mechanics, modern web interfaces, custom Linux ricing, and creative multimedia. Always tinkering, optimizing, and building.</i>
-  </p>
+[![Profile views](https://komarev.com/ghpvc/?username=KeshavDyna&style=flat-square&color=7aa2f7)](https://github.com/KeshavDyna)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavpuri--)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purikeshav2@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 Programming languages
+### 👨‍💻 About me
 
-<p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
+- 🐧 Running **Arch Linux + Hyprland** and experimenting with desktop customization.
+- 💻 Interested in **web development, scripting, and systems**.
+- 🛠️ Enjoy refining workflows, configurations, and developer tools.
+- 🎮 Into **PC gaming**, performance tuning, and creative projects.
 
-### 🧰 Frameworks and libraries
+### 🧰 Tech stack
 
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-</p>
+<details open>
+<summary><b>Languages & scripting</b></summary>
+<br>
 
-### 🗄️ Databases and Cloud Hosting
+![Languages](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,ts,python,php,bash&perline=10)
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-</p>
+Also familiar with Markdown, SQL, and Sass.
 
-### 💻 Software and tools
+</details>
 
-<p>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+<details open>
+<summary><b>Frameworks & libraries</b></summary>
+<br>
 
-<table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-            <br>React
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-            <br>Three.js
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-            <br>Redux
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-            <br>Django
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-            <br>Kubernetes
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-            <br>MaterialUI
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-            <br>GraphQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-            <br>Vue
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-            <br>Nuxt.js
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-            <br>AWS
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-            <br>Typescript
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-            <br>Go
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-            <br>Java
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-            <br>Sass
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-            <br>MongoDB
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-            <br>MySQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-            <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
-            <br>PHP
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-            <br>SQLite
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-            <br>Python
-        </td>
-        <td align="center" width="90">
-            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-            <br>Solana
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-            <br>REST API
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-            <br>Javascript
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-            <br>Docker
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-            <br>Next.js
-        </td>
-        <td align="center" width="90">
-            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-            <br>Ethereum
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-            <br>Rust
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-            <br>Angular
-        </td>
-    </tr>
-</table>
-<br />
-</div>
-<br/><br/>
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind,django,vue,nuxtjs,angular&perline=10)
 
----
+Other technologies featured in my original stack: Redux, NumPy, Pandas, Material UI, GraphQL, and Three.js.
 
-### 🖥️ System Environment
+</details>
+
+<details>
+<summary><b>Databases, infrastructure & other technologies</b></summary>
+<br>
+
+![Databases and infrastructure](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,docker,kubernetes,aws,git,github,solidity&perline=10)
+
+Additional interests and tools: REST APIs, Go, Rust, Ethereum, Solana, Arduino, GitHub Pages, and Replit.
+
+</details>
+
+<details>
+<summary><b>Software & creative tools</b></summary>
+<br>
+
+![Tools](https://skillicons.dev/icons?i=arch,linux,neovim,vscode,postman,obsidian,blender&perline=10)
+
+Also use or explore Brave, OBS Studio, Audacity, Jupyter, and CodePen.
+
+</details>
+
+### 🖥️ My Linux setup
 
 ```text
-                   -`                    keshav@archlinux
-                  .o+`                   ----------------
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  WM: Hyprland (Wayland)
-               `+oooooo:                 Shell: zsh / bash
-               -+oooooo+:                Editor: Neovim / VS Code
-             `/:-:++oooo+:               Theme: Tokyo Night
-            `/++++/+++++++:              Focus: Full-Stack, Systems & Web3
-           `/++++++++++++++:             Hobbies: Linux Ricing, Gaming, Design
-          `/+++ooooooooooooo/`           
-         ./ooosssso++osssssso+`          
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.        
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-     
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `/
+OS          Arch Linux
+Compositor  Hyprland (Wayland)
+Shell       Zsh / Bash
+Editors     Neovim / VS Code
+Interests   Linux ricing · Automation · Gaming
+```
+
+> I enjoy building a desktop environment that feels personal, efficient, and fun to use.
+
+### 📫 Connect with me
+
+- **GitHub:** [@KeshavDyna](https://github.com/KeshavDyna)
+- **LinkedIn:** [Keshav Puri](https://linkedin.com/in/keshavpuri--)
+- **Email:** [purikeshav2@gmail.com](mailto:purikeshav2@gmail.com)
+
+---
+
+<div align="center">
+
+*Always learning, tweaking, and building.* 🚀
+
+</div>
